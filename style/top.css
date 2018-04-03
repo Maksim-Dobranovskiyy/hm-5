@@ -1,0 +1,61 @@
+.section-top{
+    max-width: 1600px;
+    position : relative;
+}
+.main{
+    min-width: 1300px;
+    width: 100%;
+}
+.content{
+    position: absolute;
+    top: 280px;
+    left: 20%;
+}
+
+.icon-left{
+    position: absolute;
+    right: 105%;
+    width: 104px;
+    height: 104px;
+    background: #4e9c8a;
+    padding-top: 35px;
+}
+.new,.new2{
+    display: block;
+    margin: auto;
+
+}
+.icon-right{
+    position: absolute;
+    width: 104px;
+    height: 104px;
+    background: #4e9c8a;
+    right: -20%;
+    padding-top: 35px;
+}
+.text-size-paris{
+    font-size: 60px;
+}
+.text-size-city{
+    font-size: 24px;
+}
+.mart{
+    color: #85dbca;
+}
+.logo{
+    color: #0f0101;
+    text-transform: uppercase;
+}
+.list-link{
+    text-transform: uppercase;
+    color: #0f0101;
+}
+.text-size-paris{
+    color: #ffffff;
+}
+.text-size-city{
+    color: #f4f4f4;
+}
+.list-link:hover{
+    color: #85dbca;
+}

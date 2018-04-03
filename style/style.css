@@ -1,0 +1,20 @@
+@import url('navigations.css');
+@import url('top.css');
+@import url('bottom.css');
+@import url('footer.css');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.wrapper{
+    max-width: 1600px;
+    margin: auto;
+
+}

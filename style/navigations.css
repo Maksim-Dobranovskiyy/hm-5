@@ -1,0 +1,20 @@
+.header{
+    padding: 30px 244px;
+}
+.logo{
+float: left;
+}
+.list-item{
+    display: inline-block;
+    margin-right: 40px;
+}
+.nav{
+    clear: both;
+    min-width: 1024px;
+}
+.navigation{
+    margin-left: 450px;
+}
+.list-item:last-child{
+    margin: 0;
+}
